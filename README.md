@@ -10,3 +10,4 @@ pc.innerHTML="<img src="http://www.stihi.ru/pics/2010/02/27/2487.jpg">";
      
 
 </body></html>
+
