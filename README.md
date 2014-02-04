@@ -4,7 +4,7 @@ projects
     <div id="someId" style="
     font-weight: bold;
     color: indianred;
-    var pc = document.getElementById(">Кривовато, но вышло)</div>
+    var pc = document.getElementById(">)</div>
 <img src="http://www.stihi.ru/pics/2010/02/27/2487.jpg">";
     
      
